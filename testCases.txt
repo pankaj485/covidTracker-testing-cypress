@@ -1,0 +1,25 @@
+NAV 
+    contents: covid-19-tracker should present 
+    contents: api, github link should present 
+
+    behaviour: api and github link should be present and able to clicked 
+
+
+BODY
+    contents: search by country should exist 
+    contents: input field and search icon should be present 
+
+    behaviour: should be able to type inside of input and click search button
+    behaviour: should be able to see country specific data cards of total cases, today cases, total death, today death, active, recovered
+
+    contents: global stat should be present 
+    contents: total cases, today cases, total death, today death, active, recovered cards should be present 
+
+    contents: most affected countries list should be present 
+
+
+FOOTER 
+    contents: link for instagram, facebook, linkedin, github should be present 
+    contents: made with love by Pankaj should present 
+
+    behaviour: liks for instagram, facebook, linkedin, github should be present and able to clicked 
